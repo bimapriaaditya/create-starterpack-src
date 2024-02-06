@@ -1,5 +1,5 @@
 {
-  "name": "starterpack-src",
+  "name": "create-starterpack-src",
   "version": "1.0.0",
   "description": "starter pack `src` project for webpack, bootstrap scss and tailwind postcss",
   "main": "src/index.js",
@@ -10,7 +10,7 @@
   "bin": "./bin/cli.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bimapriaaditya/starterpack-src.git"
+    "url": "git+https://github.com/bimapriaaditya/create-starterpack-src"
   },
   "keywords": [
     "django",
@@ -46,7 +46,7 @@
   "author": "bimapriaaditya",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bimapriaaditya/starterpack-src/issues"
+    "url": "https://github.com/bimapriaaditya/create-starterpack-src/issues"
   },
-  "homepage": "https://github.com/bimapriaaditya/starterpack-src#readme"
+  "homepage": "https://github.com/bimapriaaditya/create-starterpack-src#readme"
 }
