@@ -1,6 +1,6 @@
 {
   "name": "create-starterpack-src",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "starter pack `src` project for webpack, bootstrap scss and tailwind postcss",
   "main": "src/index.js",
   "scripts": {
